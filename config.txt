@@ -1,0 +1,6 @@
+owner=549502830730543115
+prefix=!
+game=Play miskasa
+stayinchannel=true
+songinstatus=false
+token=NjE1OTMxOTI3NTY4MDU2MzQ5.XWVNmQ.XBc4ucDeTYDK-jTQWCRznzLGssg
